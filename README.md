@@ -15,5 +15,9 @@ A *highly* accurate recreation of Notch's "Minecraft 4k" content created by Node
 3. Use ```jar cfm Craft4k.jar manifest.txt *.class``` if you want to jar for distribution!
 4. use ```java -jar Craft4k.jar``` to run if made for distribution, ```java Launcher``` if not (note: no ".class"!)
 
+## There MUST be an easier way to run this, right?
+
+There sure is! Just go [here](https://github.com/MyMel2001/Craft4k/releases) to download a pre-compiled, (hopefully) semi-stable jar, and go directly to step 4!
+
 ## What does it look like?
 <img width="906" height="567" alt="image" src="https://github.com/user-attachments/assets/7febcd06-0d45-42d1-b5e0-7cdc3271522b" />
