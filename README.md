@@ -7,6 +7,7 @@ A *highly* accurate recreation of Notch's "Minecraft 4k" content created by Node
 * I have deep respect for Notch's work - even if I don't agree with everything he may or may not have/will said/say.
 * This project does not have a focus on being 4kb in size. I know, boo-hoo.
 * Shoutouts to ChatGPT for being smart enough to aide me through this task.
+* I grabbed the original .jar file from [here](https://web.archive.org/web/20141101124251/https://www.mojang.com/notch/j4k/minecraft4k/), I think.
 
 ## How to compile
 
