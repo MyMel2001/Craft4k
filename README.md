@@ -10,6 +10,6 @@ A *highly* accurate recreation of Notch's "Minecraft 4k" content created by Node
 
 ## How to compile
 
-1. Grab a copy of the source code and JDK25..
+1. Grab a copy of the source code and OpenJDK 25.
 2. Use the command ```javac Craft4k.java Launcher.java``` compile.
 3. Use ```jar cfm Craft4k.jar manifest.txt *.class``` if you want to jar for distribution!
