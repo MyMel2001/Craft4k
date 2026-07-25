@@ -8,6 +8,11 @@ A *highly* accurate recreation of Notch's "Minecraft 4k" content created by Node
 * This project does not have a focus on being 4kb in size. I know, boo-hoo.
 * Shoutouts to ChatGPT for being smart enough to aide me through this task.
 * I grabbed the original .jar file from [here](https://web.archive.org/web/20141101124251/https://www.mojang.com/notch/j4k/minecraft4k/), I think.
+* This is mostly rewritten.
+  - The majority of the functions are rewritten from some semi-deobfuscated code.
+  - However, this code was also obfuscated in a way - such as variables having different names. This is normal for so-called "deobfuscated code".
+  - And, thanks to ChatGPT getting a bit confused due to context length (since I did this logged out), and me asking for a version that can run in Java 25, it did mostly a rewrite using my semi-deobfuscated code as a reference.
+  - TLDR: Everything for this project has had to be rewritten and modernized due to it's design - from the rendering (painting/repainting), to the launching of the game, the movement, etc.
 
 ## How to compile
 
